@@ -1,10 +1,9 @@
 #include <ESP8266WiFi.h>
 
 // Replace with your network details
-//const char* ssid = "CiraSoft";
-//const char* password = "11111111";
-const char* ssid = "HARP_01";
-const char* password = "1dmin123";
+
+const char* ssid = "CiraSoft";
+const char* password = "11111111";
 
 // Web Server on port 80
 int value = LOW;
